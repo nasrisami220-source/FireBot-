@@ -1,4 +1,3 @@
-# FireBot
 FireBot is a mobile application developed with Flutter to enhance fire safety awareness and emergency response. The app is designed to provide users with real-time information, alerts, and guidance during fire incidents.
 
 Features
